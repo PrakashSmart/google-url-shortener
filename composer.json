@@ -1,0 +1,21 @@
+{
+    "name": "smartt/yii2-google-url-shortener",
+    "description": "Google URL Shortener at goo.gl is used by Google products to create short URLs that can be easily shared, tweeted, or emailed to friends.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","url","google url shortener","google shortener url"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Prakash S",
+            "email": "prakashsmartt@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "smartt\\googleurlshortener\\": ""
+        }
+    }
+}
